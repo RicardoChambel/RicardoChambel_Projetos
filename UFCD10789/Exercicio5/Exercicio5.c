@@ -6,6 +6,7 @@ int main()
     /*
         Ler 3 valores INTEIROS para as variáveis Num1, Num2, Num3.
         Apresentar os valores dispostos em ordem crescente e decrescente.
+        
     */
 
     int Num1, Num2, Num3;
